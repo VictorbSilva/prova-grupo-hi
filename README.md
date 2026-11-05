@@ -28,7 +28,7 @@ Sobre as dificuldades, tive um pequeno atrito no meio da construção da soluç�
 
 ### 3. Qual informação ou sugestão consultada você conferiu? Como conferiu? Se não usou consulta, descreva uma decisão que verificou.
 
-Conferi, com ajuda do modelo Claude de IA, a classificação entre Entrada inválida e Serviço Recusado. Utilizei saldo como -10 e preço como 15. Depois, utilizei saldo como 0 e preço como 15 para validar inválidos e recusados, comparando com as regras 2 e 5.
+Conferi, com ajuda do modelo Claude de IA, a classificação entre Entrada inválida e Serviço Recusado. Utilizei saldo como -10 e preço como -15. Depois, utilizei saldo como 0 e preço como 15 para validar inválidos e recusados, comparando com as regras 2 e 5.
 
 ### 4. O que mudou na solução depois dos seus testes? Se nada mudou, diga o que os testes confirmaram.
 
